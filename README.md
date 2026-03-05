@@ -60,3 +60,6 @@ A deep learning-based computer vision project that detects the presence of brain
 - EarlyStopping and ReduceLROnPlateau callbacks.
 - Visualized learning curves (Accuracy & Loss).
 - Confusion matrix and classification reports for Test and Validation sets.
+
+
+<img width="636" height="634" alt="Feature Map" src="https://github.com/user-attachments/assets/864e1139-8245-49ca-9af7-138ee318020e" />
