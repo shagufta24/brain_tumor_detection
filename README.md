@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Detection in MRI Scans
+# 🧠 Brain Tumor Detection in MRI Scans using Deep Neural Networks
 
 A deep learning-based computer vision project that detects the presence of brain tumors from MRI scan images. The model classifies images into two categories: **Tumor** (`yes`) and **No Tumor** (`no`). This repository includes data preprocessing, augmentation, CNN-based modeling, transfer learning, and performance evaluation.
 
